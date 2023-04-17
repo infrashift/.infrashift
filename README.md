@@ -1,2 +1,2 @@
-# _infrashift
-Organization assets that should be centralized and referenced within other infrashift project repos
+# _infrashift >>
+Centralized organization assets should be maintained and referenced across various Infrashift project repositories for consistency and easy management.
